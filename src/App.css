@@ -359,8 +359,8 @@ footer > menu {
   }
 
   .reservation-form {
-    padding: 2rem 0 0.5rem 0;
-    text-align: center;
+    padding: 2rem 0 0.5rem 1rem;
+    text-align: left;
   }
 
   .reservation-form > div {

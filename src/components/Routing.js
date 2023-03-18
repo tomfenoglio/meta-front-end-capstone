@@ -6,6 +6,7 @@ import Order from './pages/Order';
 import Login from './pages/Login';
 import Confirmation from './pages/Confirmation';
 
+// here the routes for each link of the navbar
 export default function Routing() {
     return (
         <Routes>
